@@ -85,7 +85,7 @@ body {
   pointer-events: none; }
 
 .footer {
-  background: #0F2421;
+  background: #020023;
   color: #fff;
   position: relative;
   padding: 50px;
@@ -135,7 +135,7 @@ body {
   border: 1px solid #ffff;
   border-radius: 100%;
   outline: none;
-  background-color: #0F2421;
+  background-color: #030135;
   color: #fff;
   cursor: pointer;
   opacity: 0.7;
@@ -164,7 +164,7 @@ img {
   width: 100%;
   padding-top: 20px; }
   .banner .container-story {
-    background: #102421;
+    background: #030135;
     max-width: 90%;
     margin: auto;
     align-items: center; }
@@ -250,7 +250,7 @@ img {
           width: 135px;
           height: 40px;
           border-radius: 48px;
-          background: #C7E1BF;
+          background: #7aaefb;
           border: none;
           margin-right: 15px;
           transition: all 0.5s; }
@@ -322,7 +322,7 @@ img {
   margin: 20px;
   padding: 10px;
   color: #fff;
-  background: #102421; }
+  background: #030135; }
   .contact .title h1 {
     font-size: 2rem;
     text-align: center; }
@@ -384,14 +384,14 @@ img {
     .contact .details .reach_out .form input, .contact .details .reach_out .form textarea {
       padding: 10px;
       margin: 10px;
-      border: 2px solid #102421;
+      border: 2px solid #030135;
       width: 100%; }
     .contact .details .reach_out .form #submit {
       margin: 10px;
       padding: 10px 20px;
       font-size: 1.1rem;
       font-weight: bold;
-      background: #102421;
+      background: #030135;
       color: #fff;
       cursor: pointer;
       border: none;
@@ -400,11 +400,11 @@ img {
       transition: 0.5s; }
       .contact .details .reach_out .form #submit:hover {
         background: transparent;
-        border: 2px solid #102421;
+        border: 2px solid #030135;
         color: #000; }
 
 .quotes {
-  background-image: url("../images/curlygirl.jpg");
+  background-image: url("../images/image.png");
   width: 100%;
   background-size: cover;
   background-position: center;
@@ -436,7 +436,7 @@ img {
         font-weight: 500;
         font-size: 3rem;
         line-height: 120.5%;
-        color: #FFFFFF; }
+        color: #000; }
         @media (min-width: 768px) {
           .quotes .contanier_quo .txt h2 {
             max-width: 600px;
@@ -446,13 +446,13 @@ img {
             font-size: 4rem; } }
     .quotes .contanier_quo .link a {
       text-decoration: none;
-      color: #FFFFFF;
+      color: #000;
       font-size: 1.2rem;
       position: relative;
       transition: 0.5s; }
       .quotes .contanier_quo .link a::after {
         content: '';
-        background: #FFFFFF;
+        background: #000;
         width: 100%;
         height: 2px;
         position: absolute;
@@ -615,7 +615,7 @@ img {
     margin: 20px;
     padding: 10px;
     color: #fff;
-    background: #102421; }
+    background: #030135; }
     .skin_care .topic h2 {
       font-size: 2rem;
       text-align: center; }
@@ -638,7 +638,7 @@ img {
         height: 100%;
         width: 100%;
         padding: 5.25rem 1.5625rem;
-        background-color: #102421;
+        background-color: #030135;
         border-radius: 10px;
         transition: all 0.2s ease-in-out;
         opacity: 0;
@@ -722,7 +722,7 @@ img {
           width: 160px;
           height: 50px; } }
       .products .topic .btn button:hover {
-        background: #102421;
+        background: #030135;
         color: #fffafa; }
         .products .topic .btn button:hover i img {
           filter: invert(100%); }
@@ -767,7 +767,7 @@ img {
         .products .container_skin .skin a img {
           display: inline; }
         .products .container_skin .skin a .circle {
-          background-color: #102421;
+          background-color: #030135;
           color: #FFFFFF;
           border-radius: 100%;
           text-transform: uppercase;
@@ -787,7 +787,7 @@ img {
       .products .container_skin .skin:hover {
         transform: translateY(-15px); }
         .products .container_skin .skin:hover .circle {
-          border: 1px solid #102421;
+          border: 1px solid #030135;
           background: transparent;
           color: #000; }
 
@@ -795,7 +795,7 @@ img {
   margin: 20px;
   padding: 10px;
   color: #fff;
-  background: #102421; }
+  background: #030135; }
   .register .details .title h1 {
     font-size: 2rem;
     text-align: center; }
@@ -841,7 +841,7 @@ img {
       padding: 20px 0; } }
 
 .register .details button {
-  background: #102421;
+  background: #030135;
   color: #ffff;
   padding: 15px;
   width: 100%;
@@ -899,7 +899,7 @@ img {
         .vitamins .topic .title h2 {
           font-size: 3rem; } }
     .vitamins .topic .btn button {
-      border: 1px solid #102421;
+      border: 1px solid #030135;
       border-radius: 31px;
       font-weight: 400;
       font-size: 0.8rem;
